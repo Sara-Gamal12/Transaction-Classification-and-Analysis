@@ -5,6 +5,19 @@
 </p>
 
 
+<!--  Overview  -->
+## <img  align= center width =60px src="https://cdn-icons-png.flaticon.com/512/8632/8632710.png"> Overview <a id="overview"></a>
+This project applies big data techniques to two real-world financial challenges:
+
+* Fraud Detection: Built a model to identify potentially fraudulent transactions using behavioral patterns and transaction features.
+
+* Credit Score Prediction: Developed a machine learning model based on user demographics, financial history, and transaction data to estimate credit scores.
+
+
+<!--  Pipeline  -->
+## <img  align= center width =60px src="https://cdn-icons-png.flaticon.com/512/2002/2002051.png"> Pipeline <a id="piepline"></a>
+<img src="https://github.com/user-attachments/assets/a29ad9cc-12d1-4fd2-a0ee-9354c6a96cd4" alt="Project's Pipeline" />
+
 <!-- Built Using -->
 ## <img  align= center width =60px  height =70px src="https://media4.giphy.com/media/ux6vPam8BubuCxbW20/giphy.gif?cid=6c09b952gi267xsujaqufpqwuzeqhbi88q0ohj83jwv6dpls&ep=v1_stickers_related&rid=giphy.gif&ct=s"> Built Using <a id="tools"></a>
 <table>
@@ -22,3 +35,15 @@
   </tr>
 </table>
 
+<!-- Getting Started -->
+## <img align="center" width="60px" height="60px" src="https://media3.giphy.com/media/wuZWV7keWqi2jJGzdB/giphy.gif?cid=6c09b952wp4ev7jtywg3j6tt7ec7vr3piiwql2vhrlsgydyz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"> Getting Started <a id="started"></a>
+
+1. **Clone the Repository**
+    ```bash
+    git clone https://github.com/Sara-Gamal12/Big-Data.git
+    ```
+
+2. **Install Dependencies**
+    ```bash
+    pip install -r requirements.txt
+    ```
