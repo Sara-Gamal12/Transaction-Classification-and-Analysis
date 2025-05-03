@@ -10,7 +10,6 @@
 3. [Built Using](#tools)
 4. [Getting Started](#started)
 5. [Contributors](#contributors)
-6. [License](#license)
 
 
 <!--  Overview  -->
