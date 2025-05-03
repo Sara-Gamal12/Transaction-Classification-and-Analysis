@@ -4,6 +4,14 @@
   <img src="https://github.com/user-attachments/assets/70ffa6b8-5628-4c03-a54b-587c0a3f2712" alt="Big Data Project" />
 </p>
 
+## <img  align= center width=80px src="giphy.gif">  Table of Content
+1. [Overview](#overview)
+2. [Pipeline](#piepline)
+3. [Built Using](#tools)
+4. [Getting Started](#started)
+5. [Contributors](#contributors)
+6. [License](#license)
+
 
 <!--  Overview  -->
 ## <img  align= center width =60px src="https://cdn-icons-png.flaticon.com/512/8632/8632710.png"> Overview <a id="overview"></a>
@@ -47,3 +55,38 @@ This project applies big data techniques to two real-world financial challenges:
     ```bash
     pip install -r requirements.txt
     ```
+
+<!-- Contributors -->
+## <img  align= center width=50px height=50px src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=6c09b952tmewuarqtlyfot8t8i0kh6ov6vrypnwdrihlsshb&rid=giphy.gif&ct=s"> Contributors <a id = "contributors"></a>
+<!-- readme: collaborators -start -->
+<table  align='center'> 
+<tr>
+    <td align="center">
+        <a href="https://github.com/yousefosama654">
+            <img src="https://avatars.githubusercontent.com/u/93356614?v=4" width="100;" alt="yousefosama654"/>
+            <br />
+            <sub><b>Yousef</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/EmanElbedwihy">
+            <img src="https://avatars.githubusercontent.com/u/120182209?v=4" width="100;" alt="EmanElbedwihy"/>
+            <br />
+            <sub><b>Eman</b></sub>
+        </a>
+    </td>
+        <td align="center">
+        <a href="https://github.com/nesma-shafie">
+            <img src="https://avatars.githubusercontent.com/u/120175134?v=4" width="100;" alt="nesma-shafie"/>
+            <br />
+            <sub><b>Nesma</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Sara-Gamal1">
+            <img src="https://avatars.githubusercontent.com/u/106556638?v=4" width="100;" alt="Sara-Gamal1"/>
+            <br />
+            <sub><b>Sara</b></sub>
+        </a>
+    </td></tr>
+</table>
