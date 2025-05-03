@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/70ffa6b8-5628-4c03-a54b-587c0a3f2712" alt="Big Data Project" />
 </p>
 
-## <img  align= center width=80px src="giphy.gif">  Table of Content
+## 📝 Table of Contents
 1. [Overview](#overview)
 2. [Pipeline](#piepline)
 3. [Built Using](#tools)
