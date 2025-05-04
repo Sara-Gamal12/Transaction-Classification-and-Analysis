@@ -1,7 +1,8 @@
 # Transaction-Classification-and-Analysis 💵💰🪙
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/70ffa6b8-5628-4c03-a54b-587c0a3f2712" alt="Big Data Project" />
+  
+![WhatsApp Image 2025-05-04 at 17 15 10_0f2e4a0d](https://github.com/user-attachments/assets/88e7e9a9-f6fd-46f0-92fd-188c6408b1df)
 </p>
 
 
