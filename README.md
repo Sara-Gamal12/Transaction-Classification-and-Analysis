@@ -4,12 +4,22 @@
   <img src="https://github.com/user-attachments/assets/70ffa6b8-5628-4c03-a54b-587c0a3f2712" alt="Big Data Project" />
 </p>
 
+
 ## 📝 Table of Contents
-1. [Overview](#overview)
-2. [Pipeline](#piepline)
-3. [Built Using](#tools)
-4. [Getting Started](#started)
-5. [Contributors](#contributors)
+1. [Dataset](#dataset)
+2. [Overview](#overview)
+3. [Pipeline](#piepline)
+4. [Built Using](#tools)
+5. [Getting Started](#started)
+6. [Contributors](#contributors)
+
+
+
+##  📁Dataset  <a id="dataset"></a>
+| N. of features | N. of rows | Dataset size | Link |
+|----------------|------------|--------------|------|
+| 39             | 13.3M     | 1.42 GB     | <https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets> |
+
 
 
 <!--  Overview  -->
@@ -23,7 +33,8 @@ This project applies big data techniques to two real-world financial challenges:
 
 <!--  Pipeline  -->
 ## <img  align= center width =60px src="https://cdn-icons-png.flaticon.com/512/2002/2002051.png"> Pipeline <a id="piepline"></a>
-<img src="https://github.com/user-attachments/assets/a29ad9cc-12d1-4fd2-a0ee-9354c6a96cd4" alt="Project's Pipeline" />
+![image](https://github.com/user-attachments/assets/a08eda4d-82fe-4bfc-bb87-cb76014eb26b)
+
 
 <!-- Built Using -->
 ## <img  align= center width =60px  height =70px src="https://media4.giphy.com/media/ux6vPam8BubuCxbW20/giphy.gif?cid=6c09b952gi267xsujaqufpqwuzeqhbi88q0ohj83jwv6dpls&ep=v1_stickers_related&rid=giphy.gif&ct=s"> Built Using <a id="tools"></a>
